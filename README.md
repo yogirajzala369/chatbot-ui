@@ -1,3 +1,23 @@
+
+# How to start the app
+
+After cloning the repository
+
+To start the Frontend
+
+- npm intall
+- npm start
+
+To start the backend
+
+- pip3 install transformers
+- pip3 install torch
+- pip3 install flask
+- pip3 install flask-cors
+- python3 app.py
+
+
+
 # Chatbot UI
 
 Welcome to Chatbot UI! This README provides an overview of how to containerize and deploy the app using Docker and Kubernetes.
