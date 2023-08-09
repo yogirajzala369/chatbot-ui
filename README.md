@@ -3,17 +3,23 @@
 
 After cloning the repository
 
-To start the Frontend
+To install frontend dependencies
 
 - npm intall
+
+To start the Frontend
+
 - npm start
 
-To start the backend
+To intall backend dependencies
 
 - pip3 install transformers
 - pip3 install torch
 - pip3 install flask
 - pip3 install flask-cors
+
+To start the backend
+
 - navigate to backend folder (cd backend) and then run python3 app.py
 
 
