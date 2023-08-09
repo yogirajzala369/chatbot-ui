@@ -14,7 +14,7 @@ To start the backend
 - pip3 install torch
 - pip3 install flask
 - pip3 install flask-cors
-- python3 app.py
+- navigate to backend folder (cd backend) and then run python3 app.py
 
 
 
