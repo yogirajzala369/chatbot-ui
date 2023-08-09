@@ -42,7 +42,7 @@ function App() {
 
       try {
         // Make a POST request to the Python backend
-        const response = await axios.post("http://localhost:5000/api/ask", {
+        const response = await axios.post("http://localhost:3001/api/ask", {
           question: inputText,
         });
 
